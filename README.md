@@ -1,7 +1,7 @@
-### Hello World 👋 It's Rohit
 
-<br/>
+##Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things
 
+You can reach me on LinkedIn:
 <a href="www.linkedin.com/in/rohit-v-r">
 <img align="left" alt="Rohit.V.R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,7 +10,6 @@
 
 <br />
 
-Hi,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things
 
 **Languages and Tools:**
 
