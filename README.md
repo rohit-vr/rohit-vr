@@ -1,21 +1,12 @@
 
 <b>Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things</b>
 
-You can reach me on LinkedIn:
+<b>You can reach me on LinkedIn:<b>
+<br>
 <a href="www.linkedin.com/in/rohit-v-r">
 <img align="left" alt="Rohit.V.R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
-<b>About me:</b>
-- I am an aspiring software developer
-- I have previously interned at Perficient India pvt. Ltd
-
-
-
-
-
-
+</br>
 
 **Languages and Tools:**
 
@@ -24,4 +15,6 @@ You can reach me on LinkedIn:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C/C.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
