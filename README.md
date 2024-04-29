@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/eJmUEoeU1K4d4IUbpS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-eJmUEoeU1K4d4IUbpS">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/eJmUEoeU1K4d4IUbpS/giphy.gif)
+
 
 <b>Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things</b>
 
