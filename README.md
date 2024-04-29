@@ -6,9 +6,15 @@ You can reach me on LinkedIn:
 <img align="left" alt="Rohit.V.R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
 
-<br />
+<b>About me:</b>
+- I am an aspiring software developer
+- I have previously interned at Perficient India pvt. Ltd
+
+
+
+
+
 
 
 **Languages and Tools:**
