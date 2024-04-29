@@ -4,7 +4,7 @@
 <b>You can reach me on LinkedIn:</b>
 <br>
 <a href="https://www.linkedin.com/in/rohit-v-r">
-  <img align="left" alt="Rohit.V.R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Rohit.V.R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
