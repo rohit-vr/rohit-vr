@@ -1,5 +1,5 @@
 
-##Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things
+<b>Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things</b>
 
 You can reach me on LinkedIn:
 <a href="www.linkedin.com/in/rohit-v-r">
