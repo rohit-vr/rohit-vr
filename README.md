@@ -1,6 +1,6 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg1YzAwY285MTYyNmJ1MDA2Mjk5bG43eXQzZ25qZGM2cm8xMXNobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IyRiAsl1Pczi6Y/giphy-downsized.gif" />
 
-
+</br>
 <b>About me:</b>
 Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai. I am majoring in CSE- Internet of Things. I have an interest in software development and data science.
 
