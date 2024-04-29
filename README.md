@@ -2,8 +2,11 @@
 
 
 <b>About me:</b>
+</br>
 -Hi👋,I'm Rohit.V.R, a third year student at Shiv Nadar University, Chennai.
+</br>
 -I am majoring in CSE with a specialization in Internet of Things(IoT)
+</br>
 -I have an interest in software development and data science.
 
 <b>You can reach me on LinkedIn:</b>
